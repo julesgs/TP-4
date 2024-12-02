@@ -1,0 +1,10 @@
+11;New York;admin;
+14;Singapour;admin;
+12;Tokyo;admin;
+15;Paris;admin;
+11;Singapour;root;
+1;New York;root;
+22;Tokyo;root;
+15;Paris;root;
+15;New York;jules;
+9;Singapour;jules;
